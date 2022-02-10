@@ -1,7 +1,7 @@
 # flutter_vyhladavac
 
 <p align="center">
-  Táto Flutter aplikácia umožňuje vyhľadávať IT knihy s použitím otvorenej API https://api.itbook.store/.
+  Táto Flutter aplikácia umožňuje vyhľadávať IT knihy s použitím otvorenej API.
 </p>
 
 <p>
