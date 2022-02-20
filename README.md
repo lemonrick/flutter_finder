@@ -1,4 +1,4 @@
-# flutter_vyhladavac
+# flutter_finder
 
 <p align="center">
   This Flutter application allows you to search IT books using an open API.
